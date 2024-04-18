@@ -31,6 +31,8 @@
 ## 2. Materiały i rozwiązania
 
 * https://cloud.patrykpalej.com/index.php/s/mpNEFz2ep3J9Msf
+* https://github.com/pp-szkolenia/python-mid-aptiv/
+* https://codeshare.io/Q8mYww
 
 
 ## 3. Sprawy organizacyjne
